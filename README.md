@@ -1,6 +1,9 @@
 # fastplanneroctomap
 Reference:- https://github.com/deepak-1530/FastPlannerOctomap
 
+![Alt text](https://github.com/deepak-1530/FastPlannerOctomap/blob/main/FastPlanner_OctomapAvoidance.gif)
+![Alt text](https://github.com/deepak-1530/FastPlannerOctomap/blob/main/GardenAvoidance.gif)
+
 ## Catkin Folder Structure
 All folder(workspaces) are in /home directory
 1. PX4-Autopilot\
