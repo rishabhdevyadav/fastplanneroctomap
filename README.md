@@ -2,7 +2,7 @@
 Reference:- https://github.com/deepak-1530/FastPlannerOctomap
 
 ## Catkin Folder Structure
-All folder/workspaces are in /home directory
+All folder(workspaces) are in /home directory
 1. PX4-Autopilot\
   Contain PX4-Gazebo-Sitl
   
